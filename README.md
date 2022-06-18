@@ -1,2 +1,1 @@
-# cccouncilpublicwebsite.tk
-migrate static website to aws
+Cumberland City Council Public Website
